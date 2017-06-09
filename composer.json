@@ -1,6 +1,6 @@
 {
-    "name": "infyomlabs/adminlte-templates",
     "description": "AdminLTE templates for InfyOm Laravel Generator",
+    "name": "gosoftwareltd/adminlte-templates",
     "keywords": [
         "infyom",
         "laravel",
